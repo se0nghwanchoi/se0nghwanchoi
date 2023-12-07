@@ -23,14 +23,9 @@
 </div>
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center">
+
       <img src="https://github-readme-stats.vercel.app/api?username=se0nghwanchoi&include_all_commits=true&show_icons=true&theme=radical" alt="GitHub 통계" />
-    </td>
-    <td align="center">
+ 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se0nghwanchoi&layout=compact" alt="GitHub 사용자의 코드 사용량 통계" />
-    </td>
-  </tr>
-</table>
+    
     
