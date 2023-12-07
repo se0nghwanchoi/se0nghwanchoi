@@ -22,7 +22,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=se0nghwanchoi&include_all_commits=true&show_icons=true&theme=cobalt)
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=se0nghwanchoi&include_all_commits=true&show_icons=true&theme=radical)
 
     
     
