@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=Choi%20Seong%20Hwan&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=Seonghwan%20Choi&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Language </h2> <br> 
