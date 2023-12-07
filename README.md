@@ -24,6 +24,14 @@
 <br/><br/>
 
 
-    ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=se0nghwanchoi&include_all_commits=true&show_icons=true&theme=radical)
-    ![GitHub 사용자의 코드 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nghwanchoi&layout=compact)
-    
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=se0nghwanchoi&include_all_commits=true&show_icons=true&theme=radical" alt="GitHub 통계" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se0nghwanchoi&layout=compact" alt="GitHub 사용자의 코드 사용량 통계" />
+    </td>
+  </tr>
+</table>
+
