@@ -11,8 +11,7 @@
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" /></a><br>
           <br/></div>
         
-    </div>
-    <br>
+   
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
