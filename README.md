@@ -22,10 +22,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<div align=center>
-[![se0nghwanchoi's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=se0nghwan&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/se0nghwanchoi/github-readme-stats)
-</div>
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=se0nghwanchoi&include_all_commits=true&show_icons=true&theme=cobalt)
+
     
     
