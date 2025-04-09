@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=Seonghwan%20Choi&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Language </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Language 🛠️ </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 	 
 	    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 	     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -12,7 +12,7 @@
         
    
 <div align=center><br>
-	<p>🛠 Tools 🛠</p>
+	<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"><p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
